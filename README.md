@@ -37,7 +37,7 @@ AI-powered image classifier that detects waste categories to support:
 - **Environmental awareness** and sustainability
 - Integration potential into **web dashboards** or mobile apps
 
-> _More details and demo: ([add your project repo link here](https://github.com/SamuelKrishnaD/Waste_Classifier))_
+> _More details and demo: ([Waste Classifier](https://github.com/SamuelKrishnaD/Waste_Classifier))_
 
 ---
 
